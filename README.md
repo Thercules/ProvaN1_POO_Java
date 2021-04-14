@@ -6,7 +6,6 @@ I can use them later, in case I lose. </p> <br>
 <p> • O uso destes algorítmos foi de extrema importância para resolução de algumas questões da prova de P.O.O, 
 então decidi coloca-los aqui para que eu possa usá-los depois, caso perca.</p>
 <br>
-<p> florinpop all rights reserved. </p>
 </br> 
 <p><em><b>Languages:</b></em> </p>
 <a href="#"><img src="https://img.shields.io/badge/Java-E94057?style=for-the-badge&logo=Java&logoColor=white"/>
